@@ -12,3 +12,8 @@ document.querySelector('form').addEventListener('submit', e => {
   e.preventDefault();
   alert("Thanks for reaching out! I'll get back to you soon.");
 });
+
+AOS.init({
+  duration: 1000, // animation duration in ms
+  once: true      // animation happens only once
+});

@@ -1,9 +1,9 @@
-🖥️ My Developer Portfolio
+# 🖥️ My Developer Portfolio
 
 This is my personal portfolio website built with HTML, CSS, and JavaScript.
 It showcases my projects, skills, and contact information in a simple but interactive way.
 
-🚀 Features
+# 🚀 Features
 
 Responsive design (works on desktop & mobile)
 
@@ -15,19 +15,19 @@ Light animations (scroll reveal & hover interactions)
 
 Contact form (currently placeholder alert, easy to connect with EmailJS or backend later)
 
-🛠️ Technologies Used
+# 🛠️ Technologies Used
 
-HTML
+**HTML**
 
-CSS (Flexbox & Grid)
+**CSS (Flexbox & Grid)**
 
-JavaScript (Vanilla)
+**JavaScript (Vanilla)**
 
-Vercel
+**Vercel**
 
 That’s it ✅
 
-📌 Future Improvements
+# 📌 Future Improvements
 
 Add dark/light mode toggle
 

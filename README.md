@@ -26,3 +26,11 @@ JavaScript (Vanilla)
 Vercel
 
 That’s it ✅
+
+📌 Future Improvements
+
+Add dark/light mode toggle
+
+Expand Projects section with more detailed case studies
+
+Connect contact form to EmailJS for real email functionality

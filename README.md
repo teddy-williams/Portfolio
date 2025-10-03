@@ -1,2 +1,28 @@
-# Portfolio
-The journey
+🖥️ My Developer Portfolio
+
+This is my personal portfolio website built with HTML, CSS, and JavaScript.
+It showcases my projects, skills, and contact information in a simple but interactive way.
+
+🚀 Features
+
+Responsive design (works on desktop & mobile)
+
+Smooth scrolling navigation
+
+Project cards with hover effects
+
+Light animations (scroll reveal & hover interactions)
+
+Contact form (currently placeholder alert, easy to connect with EmailJS or backend later)
+
+🛠️ Technologies Used
+
+HTML5
+
+CSS3 (Flexbox & Grid)
+
+JavaScript (Vanilla)
+
+AOS.js (for scroll animations)
+
+That’s it ✅

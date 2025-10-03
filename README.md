@@ -17,12 +17,12 @@ Contact form (currently placeholder alert, easy to connect with EmailJS or backe
 
 🛠️ Technologies Used
 
-HTML5
+HTML
 
-CSS3 (Flexbox & Grid)
+CSS (Flexbox & Grid)
 
 JavaScript (Vanilla)
 
-AOS.js (for scroll animations)
+Vercel
 
 That’s it ✅

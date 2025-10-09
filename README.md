@@ -13,7 +13,7 @@ Project cards with hover effects
 
 Light animations (scroll reveal & hover interactions)
 
-Contact form (currently placeholder alert, easy to connect with EmailJS or backend later)
+Contact form (currently had placeholders for alert, but decided to connect with EmailJS which works with Gmail)
 
 # 🛠️ Technologies Used
 

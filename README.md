@@ -15,18 +15,6 @@ Light animations (scroll reveal & hover interactions)
 
 Contact form (currently had placeholders for alert, but decided to connect with EmailJS which works with Gmail)
 
-# 🛠️ Technologies Used
-
-**HTML**
-
-**CSS (Flexbox & Grid)**
-
-**JavaScript (Vanilla)**
-
-**Vercel**
-
-That’s it ✅
-
 # 📌 Future Improvements
 
 Add dark/light mode toggle
